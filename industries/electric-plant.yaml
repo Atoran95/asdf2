@@ -1,4 +1,4 @@
-available: false
+available: true
 callbacks: ''
 cargoAcceptance:
 - BlCo
@@ -11,7 +11,7 @@ layout:
     - 1
   - - 1
     - 1
-name: 'New industry #1'
+name: Electric plant
 placement: anywhere
 probabilityInGame: 5
 probabilityMapGen: 3
@@ -25,7 +25,7 @@ tiles:
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/new-industry-1/1.png
+      filename: industries/electric-plant/1.png
       left: -31
       top: -8
 - sprites:
@@ -36,7 +36,7 @@ tiles:
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/new-industry-1/2.png
+      filename: industries/electric-plant/2.png
       left: -31
       top: -16
 type: secondary
