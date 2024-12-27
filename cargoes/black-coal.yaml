@@ -1,0 +1,17 @@
+abbreviation: BC
+available: true
+classes: 32
+colour: 1
+id: 0
+label: BlCo
+longName: black coal
+name: Black coal
+penaltyLength: 219
+penaltyLowerBound: 36
+price: 4112
+sprite:
+  filename: cargoes/black-coal.png
+  left: 0
+  top: 0
+unitName: Items
+weight: 16
