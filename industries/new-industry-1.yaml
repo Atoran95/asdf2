@@ -1,0 +1,42 @@
+available: false
+callbacks: ''
+cargoAcceptance:
+- BlCo
+cargoProduction: []
+colour: 1
+fundCostMultiplier: 100
+id: 1
+layout:
+- - - 1
+    - 1
+  - - 1
+    - 1
+name: 'New industry #1'
+placement: anywhere
+probabilityInGame: 5
+probabilityMapGen: 3
+prospectChance: 0
+tiles:
+- sprites:
+  - alwaysDraw: true
+    drawType: recolour
+    sprite:
+      id: 3924
+  - alwaysDraw: false
+    drawType: recolour
+    sprite:
+      filename: industries/new-industry-1/1.png
+      left: -31
+      top: -8
+- sprites:
+  - alwaysDraw: true
+    drawType: recolour
+    sprite:
+      id: 3924
+  - alwaysDraw: false
+    drawType: recolour
+    sprite:
+      filename: industries/new-industry-1/2.png
+      left: -31
+      top: -16
+type: secondary
